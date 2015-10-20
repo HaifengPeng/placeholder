@@ -1,5 +1,6 @@
 # placeholder
 模拟输入框或文本框placeholder效果
+[查看placeholder介绍页](http://haifengpeng.github.io/placeholder/)
 
 ##用法
 * 在头部引入css文件
