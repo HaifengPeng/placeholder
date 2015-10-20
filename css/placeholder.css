@@ -1,0 +1,42 @@
+@charset "utf-8";
+.placeholder-wrap {
+	position: relative;
+	width: 150px;
+	height: 30px;
+	margin: 5px 0;
+}
+.placeholder {
+	display: none;
+	position: absolute;
+	top: 1px;/*input、textarea有1px边框*/
+	left: 1px;/*input、textarea有1px边框*/
+	width: 188px;
+	padding: 0 5px;
+	height: 28px;
+	line-height: 28px;
+	font-size: 14px;
+	color: #989898;
+	background: #FEFEFE;
+	cursor: text;/*for ie*/
+}
+.ie .placeholder {
+	display: block;
+}
+.input {
+	width: 190px;
+	height: 28px;
+	padding: 0 4px;
+	line-height: 28px;
+	border: 1px solid #ccc;
+	outline: none;
+	font-family: "microsoft yahei";
+}
+.textarea {
+	width: 190px;
+	height: 100px;
+	padding: 0 4px;
+	border: 1px solid #ccc;
+	outline: none;
+	overflow: auto;
+	font-family: "microsoft yahei";
+}
