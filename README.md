@@ -15,17 +15,17 @@
 * html结构
 ```html
 <form>
-			<div class="placeholder-wrap">
-				<label class="placeholder js-placeholder">Email</label>
-				<input class="input" type="text" placeholder="Email" />
-			</div>
-			<div class="placeholder-wrap">
-				<label class="placeholder js-placeholder">Password</label>
-				<input class="input" type="password" placeholder="Password" />
-			</div>
-			<div class="placeholder-wrap">
-				<label class="placeholder js-placeholder">Textarea</label>
-				<textarea class="textarea" placeholder="Textarea"></textarea>
-			</div>
-		</form>
+	<div class="placeholder-wrap">
+		<label class="placeholder js-placeholder">Email</label>
+		<input class="input" type="text" placeholder="Email" />
+	</div>
+	<div class="placeholder-wrap">
+		<label class="placeholder js-placeholder">Password</label>
+		<input class="input" type="password" placeholder="Password" />
+	</div>
+	<div class="placeholder-wrap">
+		<label class="placeholder js-placeholder">Textarea</label>
+		<textarea class="textarea" placeholder="Textarea"></textarea>
+	</div>
+</form>
 ```
