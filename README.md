@@ -7,12 +7,12 @@
 <link rel="stylesheet" href="your path/placeholder.css" />
 ```
 
-*引入jquery库和placeholder js文件
+* 引入jquery库和placeholder js文件
 ```html
 <script type="text/javascript" src="your path/jquery.js" ></script>
 <script type="text/javascript" src="your path/calendar.js" ></script>
 ```
-*html结构
+* html结构
 ```html
 <form>
 			<div class="placeholder-wrap">
